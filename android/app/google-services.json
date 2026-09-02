@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541697312399",
+    "project_id": "loveping-d01c1",
+    "storage_bucket": "loveping-d01c1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541697312399:android:478f56f0db8bcb6d0e52fa",
+        "android_client_info": {
+          "package_name": "com.example.loveping"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX8V3LG8GhBcRTq9zTzLljXBx6DpOgDw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
